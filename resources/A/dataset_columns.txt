@@ -1,0 +1,14 @@
+gas_resistance
+co2
+week_number
+hour_sin
+hour_cos
+dayofweek_sin
+dayofweek_cos
+month_sin
+month_cos
+week_number_sin
+week_number_cos
+node_6
+node_17
+node_19
