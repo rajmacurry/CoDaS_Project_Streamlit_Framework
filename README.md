@@ -216,8 +216,8 @@ This platform is designed for collaborative analysis:
 
 This is a collaborative project developed by a 4-person team:
 1. Raj Maharjan (@rajmacurry)
-2. Ahmad Ashraf Zargar (ahmadzargar)
-3. Zhesan Malik (zshancs)
+2. Ahmad Ashraf Zargar (@ahmadzargar)
+3. Zhesan Malik (@zshancs)
 4. Shreya Jindal
 
 For contributions:
