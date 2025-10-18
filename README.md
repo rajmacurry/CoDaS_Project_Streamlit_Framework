@@ -214,7 +214,13 @@ This platform is designed for collaborative analysis:
 
 ## 🤝 Contributing
 
-This is a collaborative project developed by a 4-person team. For contributions:
+This is a collaborative project developed by a 4-person team:
+1. Raj Maharjan (@rajmacurry)
+2. Ahmad Ashraf Zargar (ahmadzargar)
+3. Zhesan Malik (zshancs)
+4. Shreya Jindal
+
+For contributions:
 
 1. Follow the established code structure and naming conventions
 2. Test all database interactions thoroughly
